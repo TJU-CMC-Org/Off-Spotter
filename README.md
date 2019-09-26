@@ -35,6 +35,15 @@ TO BE OBTAINED FROM USE OF THE CODE.
 
 # HELP AND EXAMPLES:
 
-Please visit https://cm.jefferson.edu/downloads/off-spotter-help/
+For more help and examples, please visit https://cm.jefferson.edu/downloads/off-spotter-help/
+
+# ONLINE VERSION
+
+To use the online version of Off-Spotter please visit https://cm.jefferson.edu/Off-Spotter/
+
+# BATCH SUBMISSION TOOL
+
+You can also download a utility that submits your queries to Off-Spotter from your computer. Use this for automated
+queries, larger inputs, or several sequences. You can find that, together with the code of this page, here https://cm.jefferson.edu/off-spotter-code/
 
 Thank you for downloading Off-Spotter!
